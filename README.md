@@ -24,7 +24,7 @@ Let's go through the first challenge together.
 ## `create_an_empty_array`
 
 Let's run our test suite to get started. Run the tests one at a time with the
-`learn --fail-fast` command in your terminal.
+`l command in your terminal.
 
 If we do so, we'll see our first failure:
 
@@ -109,5 +109,3 @@ desired element.
 Congratulations! You just completed learning how to work with create, retrieve,
 update, and delete array operations using simple operations provided to us in
 Ruby.
-
-
